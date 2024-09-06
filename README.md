@@ -1,0 +1,2 @@
+# 9-6_ESP32_RTOS_OTA
+ESP32でOTA書き込みができます
